@@ -1,2 +1,2 @@
-# ElytraFly
-This plugin works when the player uses elytra, the player will be given flying access
+# ArmorFLY
+This plugin works when the player uses ChestPlate, the player will be given flying access
