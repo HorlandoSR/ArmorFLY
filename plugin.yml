@@ -1,5 +1,5 @@
-name: ElytraFly
+name: ArmorFly
 main: ElytraFly\Loader
-api: 4.0.0
+api: [3.0.0, 4.0.0]
 version: 1
-author: KRUNCH7SHooT
+author: KRUNCH7SHooT Remake By HaykalPRO
